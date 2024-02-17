@@ -1,3 +1,4 @@
 20240214	10:06:37	09de8802-9352-45ac-8d6d-22c76ffc4062	TypeError: Header name must be a valid HTTP token [" Content-Type"]
 20240214	22:29:07	943689b4-6a3c-4594-83e3-3c9744681e94	Error: Not allowed by CORS
 20240215	21:41:38	1fb26866-8063-4b3c-b7e1-37e44c4016a2	Error: Cannot set headers after they are sent to the client
+20240217	06:10:49	d9743212-ca02-460f-b2e0-e8cd87ccf276	TypeError: console.logg is not a function
